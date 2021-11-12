@@ -1,0 +1,32 @@
+.DS_Store
+node_modules/
+unpackage/
+dist/
+coverage/
+
+# local env files
+.env.local
+.env.*.local
+
+# Log files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Editor directories and files
+.project
+.idea
+.hbuilderx
+.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw*
+
+nzapp-ios/SDK/*
+*.xcuserstate
+**/www
+**/*.xcarchive
+**/Pandora
+
